@@ -38,3 +38,10 @@ npm run build
 
 The Expected Output is to be as follows
 ![Alt text](design-tokens.png)
+
+Please find the Docs of Style Dictionary, token-transformer
+<br>
+<a href="https://amzn.github.io/style-dictionary/#/" target="_blank">Style Dictionary - Documentation </a>
+<br>
+<a href="https://github.com/tokens-studio/figma-plugin/tree/main/token-transformer" target="_blank">Token Transformer - GitHub</a>
+

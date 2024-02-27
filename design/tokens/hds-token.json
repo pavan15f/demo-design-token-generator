@@ -1075,35 +1075,35 @@
   },
   "Alias/Color": {
     "Accent": {
-      "hds-accent-color-h4c": {
+      "hds-accent-color-h3e": {
         "value": "{Color.Red.50}",
         "type": "color",
-        "description": "Primary accent color for H4C"
+        "description": "Primary accent color for h3e"
       },
-      "hds-accent-color-h4c_dark": {
+      "hds-accent-color-h3e_dark": {
         "value": "{Color.Red.40}",
         "type": "color",
-        "description": "secondary h4c accent color"
+        "description": "secondary h3e accent color"
       },
-      "hds-accent-color-h4c_darker": {
+      "hds-accent-color-h3e_darker": {
         "value": "{Color.Red.30}",
         "type": "color",
-        "description": "tertiary h4c accent color"
+        "description": "tertiary h3e accent color"
       },
-      "hds-accent-color-h4d": {
+      "hds-accent-color-h3f": {
         "value": "{Color.Green Scrub.40}",
         "type": "color",
-        "description": "primary accent color for h4d."
+        "description": "primary accent color for h3f."
       },
-      "hds-accent-color_h4d_dark": {
+      "hds-accent-color_h3f_dark": {
         "value": "{Color.Green Scrub.30}",
         "type": "color",
-        "description": "secondary accent color for h4d."
+        "description": "secondary accent color for h3f."
       },
-      "hds-accent-color_h4d_darker": {
+      "hds-accent-color_h3f_darker": {
         "value": "{Color.Green Scrub.20}",
         "type": "color",
-        "description": "tertiary accent color for h4d."
+        "description": "tertiary accent color for h3f."
       },
       "hds-accent-color-cc": {
         "value": "{Color.East Blue.50}",
@@ -1130,32 +1130,32 @@
       "hds-text-color-weak": {
         "value": "{Color.Neutral.40}",
         "type": "color",
-        "description": "Weak text color for Halodoc. Used for e.g. introduction paragraphs and help texts that are coupled with form elements."
+        "description": "Weak text color for HanoApp. Used for e.g. introduction paragraphs and help texts that are coupled with form elements."
       },
       "hds-text-color-weaker": {
         "value": "{Color.Neutral.60}",
         "type": "color",
-        "description": "Weaker text color for Halodoc. Used for e.g. disabled button label, footers, table headings, captions and placeholder texts."
+        "description": "Weaker text color for HanoApp. Used for e.g. disabled button label, footers, table headings, captions and placeholder texts."
       },
       "hds-text-color-weakest": {
         "value": "{Color.Neutral.80}",
         "type": "color",
-        "description": "Weakest text color for Halodoc. Used for e.g. disabled input text and placeholder text in focused inputs."
+        "description": "Weakest text color for HanoApp. Used for e.g. disabled input text and placeholder text in focused inputs."
       },
       "hds-text-color-on_accent": {
         "value": "{Color.White}",
         "type": "color",
-        "description": "Default text on accent color for Halodoc. Used when text sits on a dark background."
+        "description": "Default text on accent color for HanoApp. Used when text sits on a dark background."
       },
-      "hds-text-color-cta_h4c": {
-        "value": "{Accent.hds-accent-color-h4c}",
+      "hds-text-color-cta_h3e": {
+        "value": "{Accent.hds-accent-color-h3e}",
         "type": "color",
-        "description": "This is primary CTA text for H4C e.g: button label, text/nude button"
+        "description": "This is primary CTA text for h3e e.g: button label, text/nude button"
       },
-      "hds-text-color-cta_h4d": {
-        "value": "{Accent.hds-accent-color-h4d}",
+      "hds-text-color-cta_h3f": {
+        "value": "{Accent.hds-accent-color-h3f}",
         "type": "color",
-        "description": "This is primary CTA text for H4D e.g: button label, text/nude button"
+        "description": "This is primary CTA text for h3f e.g: button label, text/nude button"
       },
       "hds-text-color-cta_cc": {
         "value": "{Accent.hds-accent-color-cc}",
@@ -1202,29 +1202,29 @@
       "hds-icon-color-hover": {
         "value": "{Color.Neutral.20}",
         "type": "color",
-        "description": "Default icon hover for Halodoc."
+        "description": "Default icon hover for HanoApp."
       }
     },
     "Border": {
       "hds-border-color": {
         "value": "{Color.Neutral.85}",
         "type": "color",
-        "description": "Default border color for Halodoc."
+        "description": "Default border color for HanoApp."
       },
       "hds-border-color-strong": {
         "value": "{Color.Neutral.70}",
         "type": "color",
-        "description": "Stronger border color for Halodoc for highlighting specific parts in the UI."
+        "description": "Stronger border color for HanoApp for highlighting specific parts in the UI."
       },
       "hds-border-color_hover": {
         "value": "{Color.Neutral.60}",
         "type": "color",
-        "description": "Default border hover color for Halodoc."
+        "description": "Default border hover color for HanoApp."
       },
       "hds-border-color_disabled": {
         "value": "{Color.Neutral.50}",
         "type": "color",
-        "description": "Default border disabled color for Halodoc."
+        "description": "Default border disabled color for HanoApp."
       },
       "hds-border-color-active": {
         "value": "{Color.Blue.50}",
@@ -1241,44 +1241,44 @@
       "hds-background-color-overlay": {
         "value": "rgba(0,0,0,0.5)",
         "type": "color",
-        "description": "Default overlay color for Halodoc. Use this to distinguish modal and popout layers from the layer underneath."
+        "description": "Default overlay color for HanoApp. Use this to distinguish modal and popout layers from the layer underneath."
       },
       "hds-background-color": {
         "value": "{Color.White}",
         "type": "color",
-        "description": "Default application background color for Halodoc. Should be set to either html or body element."
+        "description": "Default application background color for HanoApp. Should be set to either html or body element."
       },
       "hds-background-color-dark": {
         "value": "{Color.Neutral.40}",
         "type": "color",
-        "description": "Dark background color for Halodoc"
+        "description": "Dark background color for HanoApp"
       },
       "hds-background-color-darker": {
         "value": "{Color.Neutral.20}",
         "type": "color",
-        "description": "Darker background color for Halodoc"
+        "description": "Darker background color for HanoApp"
       },
       "hds-background-color-secondary": {
         "value": "{Color.Neutral.95}",
         "type": "color",
-        "description": "Secondary background color for Halodoc."
+        "description": "Secondary background color for HanoApp."
       }
     },
     "Surface": {
       "hds-surface-color": {
         "value": "{Color.White}",
         "type": "color",
-        "description": "Default application surface color for Halodoc. Use this for e.g. card backgrounds."
+        "description": "Default application surface color for HanoApp. Use this for e.g. card backgrounds."
       },
       "hds-surface-color-disabled": {
         "value": "{Color.Neutral.90}",
         "type": "color",
-        "description": "Disabled surface color for Halodoc. Use this for e.g. disabled button, chips."
+        "description": "Disabled surface color for HanoApp. Use this for e.g. disabled button, chips."
       },
       "hds-surface-color-raised": {
         "value": "{Color.Neutral.95}",
         "type": "color",
-        "description": "Default raised surface color for Halodoc. Use this when you need to separate a specific layer from the surface color."
+        "description": "Default raised surface color for HanoApp. Use this when you need to separate a specific layer from the surface color."
       },
       "hds-surface-color-light_blue": {
         "value": "{Color.Blue.95}",
@@ -1691,45 +1691,45 @@
       "type": "typography",
       "description": "text for xlarge button"
     },
-    "hds-button-color-h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-button-color-h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "h4c button color normal state"
+      "description": "h3e button color normal state"
     },
-    "hds-button-color-hover_h4c": {
-      "value": "{Accent.hds-accent-color-h4c_dark}",
+    "hds-button-color-hover_h3e": {
+      "value": "{Accent.hds-accent-color-h3e_dark}",
       "type": "color",
-      "description": "h4c button color for hover state"
+      "description": "h3e button color for hover state"
     },
-    "hds-button-color-press_h4c": {
-      "value": "{Accent.hds-accent-color-h4c_darker}",
+    "hds-button-color-press_h3e": {
+      "value": "{Accent.hds-accent-color-h3e_darker}",
       "type": "color",
-      "description": "h4c ripple effect color when pressing primary button"
+      "description": "h3e ripple effect color when pressing primary button"
     },
-    "hds-button-color-ripple_h4c": {
+    "hds-button-color-ripple_h3e": {
       "value": "{Color.Red.95}",
       "type": "color",
-      "description": "h4c ripple effect color when pressing secondary & plain button"
+      "description": "h3e ripple effect color when pressing secondary & plain button"
     },
-    "hds-button-color-h4d": {
-      "value": "{Accent.hds-accent-color-h4d}",
+    "hds-button-color-h3f": {
+      "value": "{Accent.hds-accent-color-h3f}",
       "type": "color",
-      "description": "h4d button color normal state"
+      "description": "h3f button color normal state"
     },
-    "hds-button-color-hover_h4d": {
-      "value": "{Accent.hds-accent-color_h4d_dark}",
+    "hds-button-color-hover_h3f": {
+      "value": "{Accent.hds-accent-color_h3f_dark}",
       "type": "color",
-      "description": "h4d button color for hover state"
+      "description": "h3f button color for hover state"
     },
-    "hds-button-color-press_h4d": {
-      "value": "{Accent.hds-accent-color_h4d_darker}",
+    "hds-button-color-press_h3f": {
+      "value": "{Accent.hds-accent-color_h3f_darker}",
       "type": "color",
-      "description": "h4d ripple effect color when pressing primary button"
+      "description": "h3f ripple effect color when pressing primary button"
     },
-    "hds-button-color-ripple_h4d": {
+    "hds-button-color-ripple_h3f": {
       "value": "{Color.Green.95}",
       "type": "color",
-      "description": "h4d ripple effect color when pressing secondary & plain button"
+      "description": "h3f ripple effect color when pressing secondary & plain button"
     },
     "hds-button-color-cc": {
       "value": "{Accent.hds-accent-color-cc}",
@@ -1756,35 +1756,35 @@
       "type": "color",
       "description": "text & icon color for primary button"
     },
-    "hds-button-color-text_secondary_h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-button-color-text_secondary_h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "text & icon color for h4c secondary & plain button"
+      "description": "text & icon color for h3e secondary & plain button"
     },
-    "hds-button-color-text_hover_secondary_h4c": {
-      "value": "{Accent.hds-accent-color-h4c_dark}",
+    "hds-button-color-text_hover_secondary_h3e": {
+      "value": "{Accent.hds-accent-color-h3e_dark}",
       "type": "color",
-      "description": "text & icon color for h4c secondary & plain button hover state"
+      "description": "text & icon color for h3e secondary & plain button hover state"
     },
-    "hds-button-color-text_press_secondary_h4c": {
-      "value": "{Accent.hds-accent-color-h4c_darker}",
+    "hds-button-color-text_press_secondary_h3e": {
+      "value": "{Accent.hds-accent-color-h3e_darker}",
       "type": "color",
-      "description": "text & icon color for h4c secondary & plain button press/tap state"
+      "description": "text & icon color for h3e secondary & plain button press/tap state"
     },
-    "hds-button-color-text_secondary_h4d": {
-      "value": "{Accent.hds-accent-color-h4d}",
+    "hds-button-color-text_secondary_h3f": {
+      "value": "{Accent.hds-accent-color-h3f}",
       "type": "color",
-      "description": "text & icon color for h4d secondary & plain button"
+      "description": "text & icon color for h3f secondary & plain button"
     },
-    "hds-button-color-text_hover_secondary_h4d": {
-      "value": "{Accent.hds-accent-color_h4d_dark}",
+    "hds-button-color-text_hover_secondary_h3f": {
+      "value": "{Accent.hds-accent-color_h3f_dark}",
       "type": "color",
-      "description": "text & icon color for h4d secondary & plain button hover state"
+      "description": "text & icon color for h3f secondary & plain button hover state"
     },
-    "hds-button-color-text_press_secondary_h4d": {
-      "value": "{Accent.hds-accent-color_h4d_darker}",
+    "hds-button-color-text_press_secondary_h3f": {
+      "value": "{Accent.hds-accent-color_h3f_darker}",
       "type": "color",
-      "description": "text & icon color for h4d secondary & plain button press state"
+      "description": "text & icon color for h3f secondary & plain button press state"
     },
     "hds-button-color-text_secondary_cc": {
       "value": "{Accent.hds-accent-color-cc}",
@@ -1925,20 +1925,20 @@
     }
   },
   "Component/Carousel Indicator": {
-    "hds-carousel_indicator-color-active_h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-carousel_indicator-color-active_h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "color for active h4c carousel indicator"
+      "description": "color for active h3e carousel indicator"
     },
     "hds-carousel_indicator-color-active_cc": {
       "value": "{Accent.hds-accent-color-cc}",
       "type": "color",
       "description": "color for active cc carousel indicator"
     },
-    "hds-carousel_indicator-color-active_h4d": {
-      "value": "{Accent.hds-accent-color-h4d}",
+    "hds-carousel_indicator-color-active_h3f": {
+      "value": "{Accent.hds-accent-color-h3f}",
       "type": "color",
-      "description": "color for active h4d carousel indicator"
+      "description": "color for active h3f carousel indicator"
     },
     "hds-carousel_indicator-inactive": {
       "value": "20%",
@@ -2006,15 +2006,15 @@
       "type": "color",
       "description": "text color for disabled checkbox label "
     },
-    "hds-checkbox-color-selected_h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-checkbox-color-selected_h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "color for selected checkbox h4c"
+      "description": "color for selected checkbox h3e"
     },
-    "hds-checkbox-color-selected_h4d": {
-      "value": "{Accent.hds-accent-color-h4d}",
+    "hds-checkbox-color-selected_h3f": {
+      "value": "{Accent.hds-accent-color-h3f}",
       "type": "color",
-      "description": "color for selected checkbox h4d"
+      "description": "color for selected checkbox h3f"
     },
     "hds-checkbox-color-selected_cc": {
       "value": "{Accent.hds-accent-color-cc}",
@@ -2153,45 +2153,45 @@
       "type": "color",
       "description": "disabled chips text & icon color"
     },
-    "hds-chips-color-selected_h4c": {
+    "hds-chips-color-selected_h3e": {
       "value": "{Surface.hds-surface-color-light_red}",
       "type": "color",
-      "description": "h4c selected chips color"
+      "description": "h3e selected chips color"
     },
-    "hds-chips-color-selected_h4d": {
+    "hds-chips-color-selected_h3f": {
       "value": "{Surface.hds-surface-color-light_green}",
       "type": "color",
-      "description": "h4d selected chips color"
+      "description": "h3f selected chips color"
     },
     "hds-chips-color-selected_cc": {
       "value": "{Surface.hds-surface-color-light_blue}",
       "type": "color",
       "description": "cc selected chips color"
     },
-    "hds-chips-color-text_h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-chips-color-text_h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "h4c selected text & icon color"
+      "description": "h3e selected text & icon color"
     },
-    "hds-chips-color-text_h4d": {
-      "value": "{Accent.hds-accent-color-h4d}",
+    "hds-chips-color-text_h3f": {
+      "value": "{Accent.hds-accent-color-h3f}",
       "type": "color",
-      "description": "h4d selected text & icon color"
+      "description": "h3f selected text & icon color"
     },
     "hds-chips-color-text_cc": {
       "value": "{Accent.hds-accent-color-cc}",
       "type": "color",
       "description": "cc selected text & icon color"
     },
-    "hds-chips-color-selected_border_h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-chips-color-selected_border_h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "h4c selected chips border color"
+      "description": "h3e selected chips border color"
     },
-    "hds-chips-color-selected_border_h4d": {
-      "value": "{Accent.hds-accent-color-h4d}",
+    "hds-chips-color-selected_border_h3f": {
+      "value": "{Accent.hds-accent-color-h3f}",
       "type": "color",
-      "description": "h4d selected chips color"
+      "description": "h3f selected chips color"
     },
     "hds-chips-color-selected_border_cc": {
       "value": "{Accent.hds-accent-color-cc}",
@@ -2515,15 +2515,15 @@
       "type": "color",
       "description": "text color for disabled radio label "
     },
-    "hds-radio-color-selected_h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-radio-color-selected_h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "color for selected radio h4c"
+      "description": "color for selected radio h3e"
     },
-    "hds-radio-color-selected_h4d": {
-      "value": "{Accent.hds-accent-color-h4d}",
+    "hds-radio-color-selected_h3f": {
+      "value": "{Accent.hds-accent-color-h3f}",
       "type": "color",
-      "description": "color for selected radio h4d"
+      "description": "color for selected radio h3f"
     },
     "hds-radio-color-selected_cc": {
       "value": "{Accent.hds-accent-color-cc}",
@@ -2592,15 +2592,15 @@
       "type": "color",
       "description": "hover tab background color (desktop)"
     },
-    "hds-tab-color-active_h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-tab-color-active_h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "h4c tab color for active text, hover text, and active border"
+      "description": "h3e tab color for active text, hover text, and active border"
     },
-    "hds-tab-color-pressed_h4c": {
-      "value": "{Accent.hds-accent-color-h4c_darker}",
+    "hds-tab-color-pressed_h3e": {
+      "value": "{Accent.hds-accent-color-h3e_darker}",
       "type": "color",
-      "description": "h4c tab color for pressed text & border"
+      "description": "h3e tab color for pressed text & border"
     },
     "hds-tab-color-active_cc": {
       "value": "{Accent.hds-accent-color-cc}",
@@ -2612,15 +2612,15 @@
       "type": "color",
       "description": "cc tab color for pressed text & border"
     },
-    "hds-tab-color-active_h4d": {
-      "value": "{Accent.hds-accent-color-h4d}",
+    "hds-tab-color-active_h3f": {
+      "value": "{Accent.hds-accent-color-h3f}",
       "type": "color",
-      "description": "h4d tab color for active text, hover text, and active border"
+      "description": "h3f tab color for active text, hover text, and active border"
     },
-    "hds-tab-color-pressed_h4d": {
-      "value": "{Accent.hds-accent-color_h4d_darker}",
+    "hds-tab-color-pressed_h3f": {
+      "value": "{Accent.hds-accent-color_h3f_darker}",
       "type": "color",
-      "description": "h4d tab color for pressed text & border"
+      "description": "h3f tab color for pressed text & border"
     },
     "hds-tab-border-active": {
       "value": "{hds-border-width-400}",
@@ -2821,20 +2821,20 @@
       "type": "sizing",
       "description": "toggle height"
     },
-    "hds-toggle-color-track_h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-toggle-color-track_h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "toggle track color h4c"
+      "description": "toggle track color h3e"
     },
     "hds-toggle-color-track_language": {
       "value": "{Surface.hds-surface-color}",
       "type": "color",
-      "description": "language toggle track color h4c"
+      "description": "language toggle track color h3e"
     },
-    "hds-toggle-color-track_h4d": {
-      "value": "{Accent.hds-accent-color-h4d}",
+    "hds-toggle-color-track_h3f": {
+      "value": "{Accent.hds-accent-color-h3f}",
       "type": "color",
-      "description": "toggle track color h4d"
+      "description": "toggle track color h3f"
     },
     "hds-toggle-color-track_cc": {
       "value": "{Accent.hds-accent-color-cc}",
@@ -2941,15 +2941,15 @@
       "type": "color",
       "description": "article card title text color"
     },
-    "hds-article_card-color-text_title_hover_h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-article_card-color-text_title_hover_h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "h4c article card title text hover color"
+      "description": "h3e article card title text hover color"
     },
-    "hds-article_card-color-text_title_press_h4c": {
-      "value": "{Accent.hds-accent-color-h4c_dark}",
+    "hds-article_card-color-text_title_press_h3e": {
+      "value": "{Accent.hds-accent-color-h3e_dark}",
       "type": "color",
-      "description": "h4c article card title text press color"
+      "description": "h3e article card title text press color"
     },
     "hds-article_card-border_radius": {
       "value": "{hds-border-radius-medium}",
@@ -3079,7 +3079,7 @@
       "description": "banner text color for warning context"
     },
     "hds-banner-color-text_cta": {
-      "value": "{Accent.hds-accent-color-h4c}",
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
       "description": "banner text color text CTA"
     },
@@ -3335,7 +3335,7 @@
       "description": "card icon color"
     },
     "hds-card-color-cta": {
-      "value": "{Accent.hds-accent-color-h4c}",
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
       "description": "card cta text color"
     },
@@ -3426,15 +3426,15 @@
       "type": "color",
       "description": "border color for today's date"
     },
-    "hds-datepicker-color-cell_selected_h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-datepicker-color-cell_selected_h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "date cell selected h4c color"
+      "description": "date cell selected h3e color"
     },
-    "hds-datepicker-color-cell_hover_h4c": {
+    "hds-datepicker-color-cell_hover_h3e": {
       "value": "{Surface.hds-surface-color-light_red}",
       "type": "color",
-      "description": "date cell hover h4c color"
+      "description": "date cell hover h3e color"
     },
     "hds-datepicker-color-text_available": {
       "value": "{Text.hds-text-color-primary}",
@@ -3503,8 +3503,8 @@
       "type": "color",
       "description": "dropdown cell title text color"
     },
-    "hds-dropdown-cell_color-link_h4c": {
-      "value": "{Text.hds-text-color-cta_h4c}",
+    "hds-dropdown-cell_color-link_h3e": {
+      "value": "{Text.hds-text-color-cta_h3e}",
       "type": "color",
       "description": "dropdown cell title text link color"
     },
@@ -3807,7 +3807,7 @@
       "description": "nudge dismiss icon hover color"
     },
     "hds-nudge-color-text_cta": {
-      "value": "{Accent.hds-accent-color-h4c}",
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
       "description": "nudge cta text color"
     },
@@ -3907,7 +3907,7 @@
       "description": "profile select cta processing text color"
     },
     "hds-profile_selection-color-text_cta": {
-      "value": "{Accent.hds-accent-color-h4c}",
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
       "description": "profile select cta text color"
     },
@@ -4004,7 +4004,7 @@
       "description": "section subtitle text color"
     },
     "hds-section_header-color-cta": {
-      "value": "{Accent.hds-accent-color-h4c}",
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
       "description": "section cta text color"
     }
@@ -4233,7 +4233,7 @@
       "description": "dark tooltip surface color"
     },
     "hds-tooltip-color-cta": {
-      "value": "{Accent.hds-accent-color-h4c}",
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
       "description": "tooltip cta color"
     },
@@ -4444,7 +4444,7 @@
       "description": "appheader subtitle color"
     },
     "hds-appheader-color-cta": {
-      "value": "{Accent.hds-accent-color-h4c}",
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
       "description": "contextual/cta icon & text color"
     },
@@ -4526,7 +4526,7 @@
       "description": "inactive appmenu icon color"
     },
     "hds-appmenu-color-icon_active": {
-      "value": "{Accent.hds-accent-color-h4c}",
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
       "description": "active appmenu icon color"
     },
@@ -4536,7 +4536,7 @@
       "description": "inactive appmenu text color"
     },
     "hds-appmenu-color-text_active": {
-      "value": "{Accent.hds-accent-color-h4c}",
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
       "description": "active appmenu text color"
     },
@@ -4580,7 +4580,7 @@
     "hds-modal-logo_size": {
       "value": "{hds-size-1000}",
       "type": "sizing",
-      "description": "modal halodoc logo size"
+      "description": "modal HanoApp logo size"
     },
     "hds-modal-spacing": {
       "value": "{hds-space-75}",
@@ -5463,15 +5463,15 @@
       "type": "color",
       "description": "filter border color"
     },
-    "hds-filter-color-active_h4c": {
-      "value": "{Accent.hds-accent-color-h4c}",
+    "hds-filter-color-active_h3e": {
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
-      "description": "filter active color for border, counter, text (h4c)"
+      "description": "filter active color for border, counter, text (h3e)"
     },
-    "hds-filter-color-active_h4d": {
-      "value": "{Accent.hds-accent-color-h4d}",
+    "hds-filter-color-active_h3f": {
+      "value": "{Accent.hds-accent-color-h3f}",
       "type": "color",
-      "description": "filter active color for border, counter, text (h4d)"
+      "description": "filter active color for border, counter, text (h3f)"
     },
     "hds-filter-border_radius": {
       "value": "{hds-border-radius-medium}",
@@ -5695,7 +5695,7 @@
       "description": "content switcher tertiary text color"
     },
     "hds-content_switcher-color-text_cta": {
-      "value": "{Text.hds-text-color-cta_h4c}",
+      "value": "{Text.hds-text-color-cta_h3e}",
       "type": "color",
       "description": "content switcher cta text color"
     },
@@ -6472,7 +6472,7 @@
       "description": "payment method tab inactive surface color"
     },
     "hds-payment_method-color-text_accent": {
-      "value": "{Accent.hds-accent-color-h4c}",
+      "value": "{Accent.hds-accent-color-h3e}",
       "type": "color",
       "description": "payment method tab accent text color"
     },

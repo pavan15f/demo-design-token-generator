@@ -35,3 +35,6 @@ npm run build
 ```
 
 ### Vary the config.json and build.js accordingly to generate your own custom tokens
+
+The Expected Output is to be as follows
+![Alt text](design-tokens.png)

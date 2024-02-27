@@ -1,0 +1,48 @@
+<?xml version= "1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="hds_payment_method_border_radius">8dp</dimen>
+<dimen name="hds_consultation_card_border_radius">8dp</dimen>
+<dimen name="hds_store_card_border_radius">4dp</dimen>
+<dimen name="hds_info_card_border_radius">4dp</dimen>
+<dimen name="hds_ins_link_border_radius">4dp</dimen>
+<dimen name="hds_slot_picker_border_radius">4dp</dimen>
+<dimen name="hds_filter_border_radius">4dp</dimen>
+<dimen name="hds_filter_border_radius_counter">2dp</dimen>
+<dimen name="hds_product_listing_border_radius">4dp</dimen>
+<dimen name="hds_coupon_box_border_radius">4dp</dimen>
+<dimen name="hds_payment_card_border_radius">8dp</dimen>
+<dimen name="hds_stepper_border_radius">4dp</dimen>
+<dimen name="hds_floating_cart_border_radius">8dp</dimen>
+<dimen name="hds_big_banner_border_radius">8dp</dimen>
+<dimen name="hds_search_input_border_radius">4dp</dimen>
+<dimen name="hds_modal_border_radius">8dp</dimen>
+<dimen name="hds_tooltip_border_radius">4dp</dimen>
+<dimen name="hds_tile_border_radius">4dp</dimen>
+<dimen name="hds_snackbar_border_radius">8dp</dimen>
+<dimen name="hds_profile_selection_border_radius">4dp</dimen>
+<dimen name="hds_nudge_border_radius">4dp</dimen>
+<dimen name="hds_dropdown_border_radius">4dp</dimen>
+<dimen name="hds_datepicker_border_radius">8dp</dimen>
+<dimen name="hds_datepicker_cell_radius">4dp</dimen>
+<dimen name="hds_card_border_radius">4dp</dimen>
+<dimen name="hds_bottomsheet_border_radius">12dp</dimen>
+<dimen name="hds_bottomsheet_handler_radius">999dp</dimen>
+<dimen name="hds_banner_border_radius">4dp</dimen>
+<dimen name="hds_article_card_border_radius">4dp</dimen>
+<dimen name="hds_toggle_border_radius">999dp</dimen>
+<dimen name="hds_text_input_border_radius">4dp</dimen>
+<dimen name="hds_label_border_radius">4dp</dimen>
+<dimen name="hds_chips_border_radius">4dp</dimen>
+<dimen name="hds_checkbox_border_radius">2dp</dimen>
+<dimen name="hds_carousel_indicator_radius">999dp</dimen>
+<dimen name="hds_carousel_border_radius">8dp</dimen>
+<dimen name="hds_button_border_radius">4dp</dimen>
+<dimen name="hds_border_radius_sharp">2dp</dimen>
+<dimen name="hds_border_radius_medium">4dp</dimen>
+<dimen name="hds_border_radius_large">8dp</dimen>
+<dimen name="hds_border_radius_xl">12dp</dimen>
+<dimen name="hds_border_radius_pill">999dp</dimen>
+
+    </resources>
+    

@@ -1,0 +1,21 @@
+{
+  "name": "style-dictionary-custom-transforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "files": [
+    "build",
+    "properties"
+  ],
+  "scripts": {
+    "build": "del -f build && token-transformer ./tokens/hds-token.json ./tokens/hds-token-transformer.json --resolveReferences=false && node ./build.js",
+    "clean": "del -f build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "style-dictionary": "3.7.2",
+    "token-transformer": "^0.0.29"
+  }
+}

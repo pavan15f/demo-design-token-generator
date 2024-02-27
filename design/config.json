@@ -1,0 +1,64 @@
+{
+  "source": [
+    "tokens/hds-token-transformer.json"
+  ],
+  "platforms": {
+    "android": {
+      "buildPath": "../app/src/main/res/values/",
+      "transformGroup": "android",
+      "files":[
+
+        {
+          "destination": "dimens.xml",
+          "format": "android/spacing",
+          "filter": {
+            "type": "spacing"
+          }
+        },
+        {
+          "destination": "size.xml",
+          "format": "android/spacing",
+          "filter": {
+            "type": "sizing"
+          }
+        },
+        {
+          "destination": "radius.xml",
+          "format": "android/radius",
+          "filter": {
+            "type": "borderRadius"
+          }
+        },
+        {
+        "destination": "width.xml",
+        "format": "android/radius",
+        "filter": {
+          "type": "borderWidth"
+         }
+        },
+        {
+          "destination": "line-height.xml",
+          "format": "android/lineHeight",
+          "filter": {
+            "type": "lineHeights"
+          }
+        },
+        {
+          "destination": "colors.xml",
+          "format": "android/color",
+          "filter": {
+            "type": "color"
+          }
+        },
+        {
+          "destination": "opacity.xml",
+          "format": "android/opacity",
+          "filter": {
+            "type": "opacity"
+          }
+        }
+        ]
+
+    }
+  }
+}

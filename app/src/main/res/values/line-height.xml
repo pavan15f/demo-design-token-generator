@@ -1,0 +1,10 @@
+<?xml version= "1.0" encoding="utf-8"?>
+<resources>
+
+    <fraction name="hds_line_height_tight">115%</fraction>
+<fraction name="hds_line_height_heading">120%</fraction>
+<fraction name="hds_line_height_caption">130%</fraction>
+<fraction name="hds_line_height_body">150%</fraction>
+
+    </resources>
+    

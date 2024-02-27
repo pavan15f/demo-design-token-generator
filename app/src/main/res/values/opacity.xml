@@ -1,0 +1,15 @@
+<?xml version= "1.0" encoding="utf-8"?>
+<resources>
+
+       <item name="hds_coupon_box_disabled" type= "dimen" format="float" >0.5</item>
+<item name="hds_payment_card_disabled" type= "dimen" format="float" >0.5</item>
+<item name="hds_toggle_disabled" type= "dimen" format="float" >0.2</item>
+<item name="hds_carousel_indicator_inactive" type= "dimen" format="float" >20%</item>
+<item name="hds_button_opacity_press" type= "dimen" format="float" >0.1</item>
+<item name="hds_opacity_1" type= "dimen" format="float" >0.1</item>
+<item name="hds_opacity_2" type= "dimen" format="float" >0.2</item>
+<item name="hds_opacity_5" type= "dimen" format="float" >0.5</item>
+<item name="hds_opacity_8" type= "dimen" format="float" >0.8</item>
+
+       </resources>
+       
